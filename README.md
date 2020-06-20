@@ -1,8 +1,8 @@
 # Yoga Guru
 
-<img src="https://github.com/avinash987/yogAI/blob/master/screenshots/HomePage.png" alt="Home" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/BeginnerPage.png" alt="Beginner" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/IntermediatePage.png" alt="Intermediate" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master//master/screenshots/AdvancePage.png" alt="Advance" height="350"/>
+<img src="https://github.com/avinash987/yogAI/blob/master/screenshots/HomePage.png" alt="Home" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/BeginnerPage.png" alt="Beginner" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/IntermediatePage.png" alt="Intermediate" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/AdvancePage.png" alt="Advance" height="350"/>
 
-<img src="https://github.com/avinash987/yogAI/blob/master/master/screenshots/ProfilePage.png" alt="Profile" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/master/screenshots/UpdateProfilePage.png" alt="Update Profile" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/Inference.png" alt="Inference" height="350"/>
+<img src="https://github.com/avinash987/yogAI/blob/master/screenshots/ProfilePage.png" alt="Profile" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/UpdateProfilePage.png" alt="Update Profile" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/Inference.png" alt="Inference" height="350"/>
 
 **yogAI** is your personalized yoga trainer app based on Flutter. It uses posenet, a pre-trained deep learning model, to estimate body poses in real time and predict yoga asanas.
 
