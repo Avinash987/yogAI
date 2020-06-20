@@ -1,4 +1,4 @@
-# Yoga Guru
+# yogAI
 
 <img src="https://github.com/avinash987/yogAI/blob/master/screenshots/HomePage.png" alt="Home" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/BeginnerPage.png" alt="Beginner" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/IntermediatePage.png" alt="Intermediate" height="350"/><img src="https://github.com/avinash987/yogAI/blob/master/screenshots/AdvancePage.png" alt="Advance" height="350"/>
 
