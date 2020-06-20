@@ -78,7 +78,7 @@ You can read more about the implementation [here](https://github.com/shaqian/flu
 ### 8. bndbox.dart
 **bndbox.dart** defines a *BndBox* class, which is a stateless widget. It takes the List of predictions (*_recognitions*) and plot keypoints on the screen. It also prints the accuracy of the model in %.
 
-<img src="https://github.com//avinash987/yogAI/blob/master/screenshots/ProfilePage.png" alt="Profile" align="right" height="300"/>
+<img src="https://github.com/avinash987/yogAI/blob/master/screenshots/ProfilePage.png" alt="Profile" align="right" height="300"/>
 
 ### 9. profile.dart
 **profile.dart** defines a *Profile* class, which is a stateful widget. It contains the code for viewing and updating the user's profile data.
