@@ -1,13 +1,13 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:yoga_guru/login.dart';
-import 'package:yoga_guru/poses.dart';
-import 'package:yoga_guru/profile.dart';
-import 'package:yoga_guru/scale_route.dart';
-import 'package:yoga_guru/size_route.dart';
-import 'package:yoga_guru/util/pose_data.dart';
-import 'package:yoga_guru/util/auth.dart';
-import 'package:yoga_guru/util/user.dart';
+import 'package:yogAI/login.dart';
+import 'package:yogAI/poses.dart';
+import 'package:yogAI/profile.dart';
+import 'package:yogAI/scale_route.dart';
+import 'package:yogAI/size_route.dart';
+import 'package:yogAI/util/pose_data.dart';
+import 'package:yogAI/util/auth.dart';
+import 'package:yogAI/util/user.dart';
 
 class Home extends StatelessWidget {
   final String email;
