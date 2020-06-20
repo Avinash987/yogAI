@@ -4,7 +4,6 @@ import 'package:yogAI/login.dart';
 import 'package:yogAI/poses.dart';
 import 'package:yogAI/profile.dart';
 import 'package:yogAI/scale_route.dart';
-import 'package:yogAI/size_route.dart';
 import 'package:yogAI/util/pose_data.dart';
 import 'package:yogAI/util/auth.dart';
 import 'package:yogAI/util/user.dart';
