@@ -31,7 +31,7 @@ class Home extends StatelessWidget {
       backgroundColor: Colors.black,
       appBar: AppBar(
         backgroundColor: Colors.black,
-        title: Text('Yoga Guru'),
+        title: Text('YogAI'),
         centerTitle: true,
         actions: <Widget>[
           GestureDetector(
