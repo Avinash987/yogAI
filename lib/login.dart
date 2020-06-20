@@ -2,9 +2,9 @@ import 'package:camera/camera.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:yoga_guru/home.dart';
-import 'package:yoga_guru/register.dart';
-import 'package:yoga_guru/util/auth.dart';
+import 'package:yogAI/home.dart';
+import 'package:yogAI/register.dart';
+import 'package:yogAI/util/auth.dart';
 
 class Login extends StatefulWidget {
   final List<CameraDescription> cameras;
