@@ -88,8 +88,13 @@ You can read more about the implementation [here](https://github.com/shaqian/flu
 
 
 
-## GeekReeboot 2020 Team Details
+## GeekReeboot 2020 Team DRISHYA Submission
 
+**N Akanksha**
+
+**Sai Charan K Netha**
+
+**Lalith Avinash D**
 
 ## Resources to help you start
 A few resources to get you started if this is your first Flutter project:
